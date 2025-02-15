@@ -37,6 +37,7 @@ Low Risk (all returns ≥5%)
 ✔ Loop-based simulation for tracking.
 
 📂 Project Structure
+
 📁 SecureBank-Finance-Tools/
  ├── loan_eligibility.py  
  ├── investment_risk.py  
